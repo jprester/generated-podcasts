@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Night Shelf</title>
+    <link>https://www.jankoprester.com/generated-podcasts/night-shelf/</link>
+    <atom:link href="https://www.jankoprester.com/generated-podcasts/night-shelf/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Weird fiction read aloud: strange, unsettling short stories for late listening.</description>
+    <language>en</language>
+    <itunes:author>Podcast Studio</itunes:author>
+    <itunes:image href="https://www.jankoprester.com/generated-podcasts/night-shelf/cover.jpg"/>
+    <itunes:category text="Fiction"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Third Knock</title>
+      <description>A caretaker spends the winter alone in a shuttered seaside hotel, with one instruction. If anyone knocks on the door of room fourteen from the inside, don&#x27;t answer.</description>
+      <content:encoded><![CDATA[<h3>The Third Knock</h3>
+<p>The Hotel Marisol closed for the winter every year on the first of November, and every year someone had to stay behind to keep the pipes from freezing. That winter, it was me.</p>
+<p>The owner, a tired woman named Mrs. Edda Vane, gave me the keys on the last afternoon of October. She walked me through the boiler room, the fuse box, the list of numbers to call if the roof began to leak. Then, at the front door, with her coat already buttoned, she stopped.</p>
+<p>&quot;Room fourteen,&quot; she said. &quot;If anyone knocks on it, don&#x27;t answer.&quot;</p>
+<p>I laughed, because I thought it was a joke about the guests. The rooms were empty. The beds were stripped. I said so.</p>
+<p>Mrs. Vane looked at me for a long moment. &quot;Not on the door from the corridor,&quot; she said. &quot;From the inside.&quot;</p>
+<p>Then she left, and the sea took the sound of her car away.</p>
+<p>The first weeks were easy. I read. I walked the beach in the grey mornings and checked the radiators in the afternoons. The hotel settled into its winter noises: the long sigh of the boiler, the tick of cooling pipes, the wind feeling along the windows for a way in.</p>
+<p>Room fourteen was at the far end of the second floor, where the corridor bent toward the sea. I passed it twice a day. It was an ordinary door, painted the same tired cream as all the others, with a brass number that had gone dark at the edges.</p>
+<p>On the twentieth night, I was sitting in the porter&#x27;s office, half asleep over a book, when I heard it.</p>
+<p>Three knocks. Unhurried. Polite, almost. They came from above me, from the second floor, from the end of the corridor where it bent toward the sea.</p>
+<p>I told myself it was the pipes. I told myself that all the way up the stairs, and all the way down the corridor, with the torch shaking a little in my hand. The door of room fourteen was closed. The corridor was empty. The air smelled of salt and old carpet.</p>
+<p>I stood there for a long time. Nothing happened. I went back down.</p>
+<p>It came again three nights later, and then every second night, always just after two in the morning. Always three knocks. Always from the inside of the door.</p>
+<p>I did what Mrs. Vane had told me. I did not answer. But I began to listen. And as I listened, I noticed something I wished I had not.</p>
+<p>The knocks were getting closer together. At first there had been a long breath between each one, the way you knock on a door when you expect to wait. By the second week, the gaps had shortened. By the third, they came quickly, one after another, like someone who has been waiting a very long time and has begun to understand that no one is coming.</p>
+<p>On the last night of November, I went up with the torch and stood outside the door, and I spoke to it. I don&#x27;t know why. Loneliness, perhaps. Or pity.</p>
+<p>&quot;I&#x27;m not allowed to open it,&quot; I said.</p>
+<p>The silence on the other side changed. I can&#x27;t explain it better than that. It became the silence of someone listening.</p>
+<p>Then, very softly, from just behind the wood, a voice I almost recognised said, &quot;That&#x27;s all right. I&#x27;m not knocking to come out.&quot;</p>
+<p>I didn&#x27;t understand, and then I did. I turned and looked back down the long corridor, toward the stairs, toward the porter&#x27;s office and the lamp I had left burning.</p>
+<p>The knocking was coming from down there now. From my office. From the inside of my door.</p>
+<p>I have not gone back down. I am still standing in the corridor of the second floor, where it bends toward the sea, and the door of room fourteen is warm against my back. Mrs. Vane comes back in March. I hope she remembers to knock.</p>]]></content:encoded>
+      <guid isPermaLink="false">2026-11-22-the-third-knock</guid>
+      <pubDate>Sun, 22 Nov 2026 14:47:05 +0100</pubDate>
+      <enclosure url="https://www.jankoprester.com/generated-podcasts/night-shelf/audio/2026-11-22-the-third-knock.mp3" length="2928904" type="audio/mpeg"/>
+      <itunes:duration>244</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
