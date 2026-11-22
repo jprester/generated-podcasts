@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang=en>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>Generated Podcasts</title>
+<meta name=description content="Long-form audio written by Claude and narrated by AI voices: history and science, weird fiction, technical deep dives and alternate histories.">
+<style>
+:root{--bg:#faf7f2;--fg:#1f1f1f;--muted:#6b6b6b;--card:#fff;--line:#e6e0d6;--code:#f1ede6}
+@media (prefers-color-scheme:dark){:root{--bg:#141619;--fg:#e8e6e3;--muted:#9a9a9a;--card:#1c1f23;--line:#2c3036;--code:#262a30}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Georgia,"Times New Roman",serif}
+main{max-width:860px;margin:0 auto;padding:32px 16px 64px}
+header h1{font-size:2.2rem;margin:0 0 6px;letter-spacing:-.01em}
+header p{color:var(--muted);margin:0 0 28px;max-width:60ch}
+.show{display:grid;grid-template-columns:180px 1fr;gap:20px;background:var(--card);border:1px solid var(--line);
+  border-left:4px solid var(--accent);border-radius:14px;padding:18px;margin-bottom:18px}
+.cover img{width:100%;aspect-ratio:1;border-radius:10px;display:block}
+h2{margin:0 0 6px;font-size:1.45rem} h2 a{color:inherit;text-decoration:none} h2 a:hover{text-decoration:underline}
+.desc{margin:0 0 8px} .meta{margin:0 0 10px;color:var(--muted);font-size:.92rem}
+.latest{list-style:none;padding:0;margin:0 0 12px;font-size:.95rem} .latest li{padding:3px 0}
+.latest a{color:inherit} .latest span{color:var(--muted);font-size:.85rem;white-space:nowrap}
+.feed{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.feed code{background:var(--code);padding:4px 8px;border-radius:6px;font-size:.8rem;word-break:break-all;flex:1 1 240px}
+button{font:inherit;font-size:.85rem;padding:6px 12px;border-radius:8px;border:1px solid var(--line);
+  background:var(--accent);color:#fff;cursor:pointer}
+footer{color:var(--muted);font-size:.85rem;margin-top:32px}
+@media (max-width:560px){.show{grid-template-columns:1fr} .cover img{max-width:220px}}
+</style>
+<main>
+<header><h1>Generated Podcasts</h1><p>Long-form audio written by Claude and narrated by AI voices: history and science, weird fiction, technical deep dives and alternate histories.</p></header>
+<article class=show style="--accent:#e0a458">
+  <a href="curiosity-hour/" class=cover><img src="curiosity-hour/cover.jpg" alt="Curiosity Hour cover" loading=lazy></a>
+  <div class=body>
+    <h2><a href="curiosity-hour/">Curiosity Hour</a></h2>
+    <p class=desc>Long-form deep dives into history, popular science and business, written by Claude and narrated by AI voices.</p>
+    <p class=meta>1 episode · 14 min</p>
+    <ul class=latest><li><a href="curiosity-hour/#2026-11-22-the-great-stink">The Great Stink</a> <span>2026-11-22 · 14:05</span></li></ul>
+    <div class=feed><code>https://www.jankoprester.com/generated-podcasts/curiosity-hour/feed.xml</code><button type=button data-copy="https://www.jankoprester.com/generated-podcasts/curiosity-hour/feed.xml">Copy feed URL</button></div>
+  </div>
+</article>
+<footer>Copy a feed URL into your podcast app (in Apple Podcasts: Library → ⋯ → Follow a Show by URL).</footer>
+</main>
+<script>
+document.querySelectorAll('button[data-copy]').forEach(b => b.addEventListener('click', async () => {
+  try { await navigator.clipboard.writeText(b.dataset.copy); b.textContent = 'Copied'; }
+  catch (e) { b.textContent = 'Select the URL to copy'; }
+  setTimeout(() => b.textContent = 'Copy feed URL', 2000);
+}));
+</script>
+</html>
